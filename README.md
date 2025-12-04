@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![Octocat](octocat.png)
 <!--
 **Joorg3Mayoor/Joorg3Mayoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
