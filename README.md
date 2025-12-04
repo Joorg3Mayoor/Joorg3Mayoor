@@ -1,6 +1,5 @@
 # 💫 Sobre Mi:
-🔧 Actualmente intentando mejorar mi perfil de Github<br>🌱 Actualmente aprendiendo Python<br>[![Viewers](https://visitcount.itsvg.in/api?id=Joorg3Mayoor&color=1)](https://visitcount.itsvg.in)
-
+🔧 Actualmente intentando mejorar mi perfil de Github<br>🌱 Actualmente aprendiendo Python<br>    ![Profile Views](https://github-vistors-counter.onrender.com/github?username=Joorg3Mayoor)
 
 ## 🌐 Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/JoorgeMayoor) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joorgemayoor@gmail.com) 
