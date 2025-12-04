@@ -1,5 +1,5 @@
 # 💫 Sobre Mi:
-🔧 Actualmente intentando mejorar mi perfil de Github<br>🌱 Actualmente aprendiendo Python
+🔧 Actualmente intentando mejorar mi perfil de Github<br>🌱 Actualmente aprendiendo Python<br>[![Viewers](https://visitcount.itsvg.in/api?id=Joorg3Mayoor&color=1)](https://visitcount.itsvg.in)
 
 
 ## 🌐 Socials:
@@ -7,7 +7,3 @@
 
 # 💻 Tech Stack:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=plastic&logo=nVIDIA&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity&logoColor=white)
-
-# 👁️ Visitias:
-![Profile Views](https://github-vistors-counter.onrender.com/github?username=Joorg3Mayoor)
----
