@@ -1,5 +1,5 @@
 # 💫 Sobre Mi:
-🔧 Actualmente intentando mejorar mi perfil de Github<br>🌱 Actualmente aprendiendo Python
+🔧 Actualmente trabajando en mejorar mi página web.<br>🌱 Actualmente aprendiendo Python
 
 ## 🌐 Social:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/JoorgeMayoor) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joorgemayoor@gmail.com) 
