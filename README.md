@@ -8,5 +8,5 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#) [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#) [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#) [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#) [![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=firefoxbrowser&logoColor=white)](#) [![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)](#) [![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](#)
 
 # 🎧 Mi Música:
-[![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?logo=youtube-music&logoColor=white)](https://music.youtube.com/playlist?list=PL8nA5VGiEZJr93iSRi_zHAe3u44pyT-WX&si=Hmtzl1xG49J2HuLA)
+[![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?logo=youtube-music&logoColor=white)](https://music.youtube.com/playlist?list=PL8nA5VGiEZJr93iSRi_zHAe3u44pyT-WX)
 
